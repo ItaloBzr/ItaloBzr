@@ -7,8 +7,6 @@
 <ul>
   <li>👨‍🎓 <strong>Estudante:</strong> Desenvolvimento de Sistemas na <strong>ETEC</strong> (2º Módulo)</li>
   <li>📍 <strong>Localização:</strong> São Paulo, Brasil 
-    <img src="https://cdn-icons-png.flaticon.com/512/197/197386.png" width="15" />
-  </li>
   <li>💻 <strong>Foco atual:</strong> Desenvolvimento <strong>backend</strong></li>
   <li>📚 <strong>Estudando:</strong> Java, Mobile (Android Studio) e Python</li>
 </ul>
