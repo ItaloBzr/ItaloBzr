@@ -4,7 +4,7 @@
   Sou Italo Bezerra
 </h1>
 
-<ul style="list-style: none">
+<ul>
   <li>👨‍🎓 <strong>Estudante:</strong> Desenvolvimento de Sistemas na <strong>ETEC</strong> (2º Módulo)</li>
   <li>📍 <strong>Localização:</strong> São Paulo, Brasil 
   <li>💻 <strong>Foco atual:</strong> Desenvolvimento <strong>backend</strong></li>
