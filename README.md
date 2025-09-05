@@ -26,7 +26,10 @@
   <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-![Italo Bezerra GitHub stats](https://github-readme-stats.vercel.app/api?username=ItaloBzr&show_icons=true&theme=radical)
-![LInguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ItaloBzr&layout=compact&theme=radical)
+<div>
+  ![Italo Bezerra GitHub stats](https://github-readme-stats.vercel.app/api?username=ItaloBzr&show_icons=true&theme=radical)
+  ![LInguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ItaloBzr&layout=compact&theme=radical)
+</div>
+
 
 
