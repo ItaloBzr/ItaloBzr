@@ -1,4 +1,4 @@
-<h1>Olá Devs! 😉​<br/> Sou Italo Bezerra </h1>
+<h1>Olá Devs! ​<br/> Sou Italo Bezerra </h1>
 
 <ul>
   <li>👨‍🎓 <strong>Estudante:</strong> Desenvolvimento de Sistemas na <strong>ETEC</strong> (2º Módulo)</li>
