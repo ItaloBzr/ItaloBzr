@@ -23,6 +23,6 @@
 </p>
 
 <div style="display: flex; justify-content: flex-start; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=ItaloBzr&show_icons=true&theme=radical" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ItaloBzr&layout=compact&theme=radical&hide_border=false&langs_count=5" width="305" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ItaloBzr&show_icons=true&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ItaloBzr&layout=compact&theme=radical&hide_border=false&langs_count=5"/>
 </div>
