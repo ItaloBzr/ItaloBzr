@@ -22,5 +22,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" />
 </p>
 
-![Italo Bezerra GitHub stats](https://github-readme-stats.vercel.app/api?username=ItaloBzr&show_icons=true&theme=radical)
-![LInguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ItaloBzr&layout=compact&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ItaloBzr&show_icons=true&theme=radical)
+  
+![Linguagens](https://github-readme-stats.vercel.app/api/top-langs?username=ItaloBzr&layout=compact&theme=radical&hide_border=false&langs_count=5)
+
+
