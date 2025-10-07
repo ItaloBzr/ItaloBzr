@@ -1,7 +1,7 @@
 <h1>Olá Devs! ​<br/> Sou Italo Bezerra </h1>
 
 <ul>
-  <li>👨‍🎓 <strong>Estudante:</strong> Desenvolvimento de Sistemas na <strong>ETEC</strong> (2º Módulo)</li>
+  <li>👨‍🎓 <strong>Estudante:</strong> Desenvolvimento de Sistemas na <strong>ETEC</strong></li>
   <li>💻 <strong>Foco atual:</strong> Desenvolvimento <strong>backend</strong></li>
   <li>📚 <strong>Estudando:</strong> Java, Mobile (Android Studio) e Python</li>
 </ul>
