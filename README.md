@@ -8,23 +8,23 @@
 
 ---
 
-<h3>Tecnologias que utilizo</h2>
+<h3>Tecnologias que utilizo:</h3>
 
-<h3>Linguagens de Programação</h3>
+<h4>Linguagens de Programação</h4>
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
 </p>
 
-<h3>Linguagens Web</h3>
+<h4>Linguagens Web</h4>
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" />
 
 </p>
 
-<h3>Ferramentas</h3>
+<h4>Ferramentas</h4>
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40"/>
   <img src="https://devicon-website.vercel.app/api/github/original-wordmark.svg?color=%23FFFFFF" width="40" height="40"></img>
