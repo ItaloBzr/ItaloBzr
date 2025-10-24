@@ -6,6 +6,8 @@
   <li>📚 <strong>Estudando:</strong> Java, Mobile (Android Studio) e Python</li>
 </ul>
 
+---
+
 <h1>Tecnologias que utilizo</h2>
 
 <h3>Linguagens de Programação</h3>
@@ -28,6 +30,8 @@
   <img src="https://devicon-website.vercel.app/api/github/original-wordmark.svg?color=%23FFFFFF" width="40" height="40"></img>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" width="40" height="40"/>
 </p>
+
+---
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=ItaloBzr&show_icons=true&theme=radical"/>
