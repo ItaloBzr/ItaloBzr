@@ -5,7 +5,7 @@
   <li>💻 <strong>Foco atual:</strong> Desenvolvimento <strong>backend</strong></li>
   <li>📚 <strong>Estudando:</strong> Java, Mobile (Android Studio) e Python</li>
 </ul>
-
+---
 <h2>Tecnologias que utilizo</h2>
 
 <h3>Linguagens de Programação</h3>
