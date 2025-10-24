@@ -8,7 +8,7 @@
 
 ---
 
-<h1>Tecnologias que utilizo</h2>
+<h2>Tecnologias que utilizo</h2>
 
 <h3>Linguagens de Programação</h3>
 <p>
