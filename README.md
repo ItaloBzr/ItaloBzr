@@ -29,7 +29,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" width="40" height="40"/>
 </p>
 
-<h1>Minhas Estatisticas no GitHub</h2>
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=ItaloBzr&show_icons=true&theme=radical"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ItaloBzr&layout=compact&theme=radical&hide_border=false&langs_count=5"/>
