@@ -1,7 +1,6 @@
 # Olá Devs! Sou Italo Bezerra </h1>
 
-Sou estudante de **Desenvolvimento de Sistemas** na **ETEC**, sempre buscando aprender e evoluir constantemente na área de tecnologia.  
-com foco atual em **desenvolvimento backend**, mas também gosto de explorar **mobile** e **inteligência artificial**, aprendendo novas formas de aplicar meus conhecimentos em projetos reais.
+Sou estudante de **Desenvolvimento de Sistemas** na **ETEC**, com foco atual em **desenvolvimento backend**, mas também gosto de explorar **mobile** e **inteligência artificial**, aprendendo novas formas de aplicar meus conhecimentos em projetos reais.
 
 
 O que estou Estudando atualmente:
