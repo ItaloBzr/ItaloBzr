@@ -1,4 +1,4 @@
-<h1>Olá Devs! ​<br/> Sou Italo Bezerra </h1>
+# Olá Devs! ​<br/> Sou Italo Bezerra </h1>
 
 <ul>
   <li>👨‍🎓 <strong>Estudante:</strong> Desenvolvimento de Sistemas na <strong>ETEC</strong></li>
@@ -32,6 +32,7 @@
 
 ---
 
+## Minhas Estatisticas no GitHub
 <div align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=ItaloBzr&show_icons=true&theme=radical" />
