@@ -6,7 +6,6 @@ Sou estudante de **Desenvolvimento de Sistemas** na **ETEC**, com foco atual em 
 O que estou Estudando atualmente:
 - Programação Orientada a Objetos (**Java**)
 - Banco de dados  (**MySQL**, **SQLite**)
-- Desenvolvimento de APIs relacionadas a treinamento de **IA**  
 - Desenvolvimento **Mobile** com **Android Studio (Java)**  
 
 ---
