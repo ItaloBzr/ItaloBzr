@@ -10,20 +10,20 @@
 
 ## 💻 Tecnologias que utilizo:
 
+
 Linguagens de Programação:
-  <img src="https://img.shields.io/badge/Java-%23ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/>
-  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
-
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge" alt="Python Badge">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge" alt="JavaScript Badge">
+  
 Linguagens Web:
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
-
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge" alt="HTML5 Badge">
+  <img src="https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff&style=for-the-badge" alt="CSS Badge">
+  
 Ferramentas:
-  <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github"/>
-  <img src="https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff&style=flat-square"/>
-
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=for-the-badge" alt="GitHub Badge">
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge" alt="Git Badge">
+  <img src="https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff&style=for-the-badge" alt="Notion Badge">
 
 ---
 
