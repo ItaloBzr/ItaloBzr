@@ -16,7 +16,6 @@ O que estou Estudando atualmente:
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge" alt="JavaScript Badge"/>
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge" alt="Python Badge"/>
-  <img src ="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white"/>
 </p>
 
 ### Front-End:
@@ -24,6 +23,7 @@ O que estou Estudando atualmente:
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge" alt="HTML5 Badge"/>
   <img src="https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff&style=for-the-badge" alt="CSS Badge"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge" alt="JavaScript Badge"/>
+  <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt="JavaScript Badge"/>
 </p>
 
 
@@ -31,8 +31,8 @@ O que estou Estudando atualmente:
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge" alt="Git Badge"/>
   <img src="https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff&style=for-the-badge" alt="Notion Badge"/>
-
-
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Notion Badge"/>
+  <img src ="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white"/>
 </p>
 
 ### IDE'S:
