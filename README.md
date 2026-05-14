@@ -1,33 +1,51 @@
-# Olá Devs! Eu sou o Italo Bezerra
+# Hello Devs, I'm Italo Bezerra
 
-Sou estudante de **Desenvolvimento de Sistemas** na **ETEC**, com foco em **desenvolvimento web**, atuando tanto no **Front-End quanto no Back-End**.  
+I'm a Systems Development student at ETEC focused on **Web Development**, working on both **Front-End** and **Back-End** applications. I aim to build well-structured, scalable solutions aligned with software development best practices.
 
-Busco construir aplicações bem estruturadas, escaláveis e alinhadas com boas práticas de desenvolvimento. Tenho interesse em **Arquitetura de Software**, **Inteligência Artificial** e **experiência do usuário (UI/UX)**.
+I’m interested in **Software Architecture**, **Artificial Intelligence**, and **UI/UX**, always seeking to improve my technical skills and create efficient, user-friendly experiences.
 
-
-O que estou Estudando atualmente:
-- Programação Orientada a Objetos (**Java**)
-- Vue.js: Componentização e construção de interfaces dinâmicas  
-- UI/UX: Criação de interfaces mais intuitivas e funcionais  
-- Banco de Dados: Modelagem e otimização de consultas SQL
+Currently Learning
+- Object-Oriented Programming with **Java**
+- **Vue.js**: component-based architecture and dynamic interfaces
+- **UI/UX**: creating more intuitive and functional interfaces
+- **Databases**: data modeling and SQL query optimization
 
 ---
 
-##  Tecnologias
 
-| Categoria | Tecnologias |
+## Technologies
+> Technologies and tools that are part of my daily development workflow.
+
+| Category | Technologies |
 | :--- | :--- |
-| **Linguagens** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000) |
+| **Languages** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000) |
 | **Web Development** | ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |
-| **Banco de Dados** |  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) |
-| **IDEs & Ferramentas** | ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) |
+| **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) |
+| **IDEs & Tools** | ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) |
 
 ---
 
-## Minhas Estatísticas no GitHub
-<div align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=ItaloBzr&show_icons=true&theme=radical" />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=ItaloBzr&layout=compact&theme=radical&hide_border=false&langs_count=5" />
+## Additional Knowledge
+> Technologies used in introductory academic projects, with a stronger focus on Python.
+
+| Domain | Tools / Languages |
+| :--- | :--- |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
+| **Tools & Design** | ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white) |
+
+---
+
+## My GitHub Stats
+
+<div >
+  <img width="85%" src="https://github-readme-activity-graph.vercel.app/graph?username=italoBzr&theme=dracula&hide_border=true&bg_color=282a36&area=true" />
 </div>
+
+<br>
+
+<div>
+  <img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=italoBzr&theme=dracula&hide_border=true&background=282a36" />
+  <img width="30%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=italoBzr&theme=dracula" />
+</div>
+
+
