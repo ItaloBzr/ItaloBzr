@@ -38,14 +38,14 @@ Currently Learning
 ## My GitHub Stats
 
 <div >
-  <img width="85%" src="https://github-readme-activity-graph.vercel.app/graph?username=italoBzr&theme=dracula&hide_border=true&bg_color=282a36&area=true" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=italoBzr&theme=dracula&hide_border=true&bg_color=282a36&area=true" />
 </div>
 
 <br>
 
 <div>
-  <img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=italoBzr&theme=dracula&hide_border=true&background=282a36" />
-  <img width="30%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=italoBzr&theme=dracula" />
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=italoBzr&theme=dracula&hide_border=true&background=282a36" />
+  <img width="39%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=italoBzr&theme=dracula" />
 </div>
 
 
