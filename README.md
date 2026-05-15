@@ -1,35 +1,31 @@
-# Hello Devs, I'm Italo Bezerra
 
-I'm a Systems Development student at ETEC focused on **Web Development**, working on both **Front-End** and **Back-End** applications. I aim to build well-structured, scalable solutions aligned with software development best practices.
+# Italo Bezerra | Full-Stack Developer
 
-I’m interested in **Software Architecture**, **Artificial Intelligence**, and **UI/UX**, always seeking to improve my technical skills and create efficient, user-friendly experiences.
+I am a Systems Development student at **ETEC** focused on web applications, software architecture, and AI-integrated applications.
 
-Currently Learning
-- Object-Oriented Programming with **Java**
-- **Vue.js**: component-based architecture and dynamic interfaces
-- **UI/UX**: creating more intuitive and functional interfaces
-- **Databases**: data modeling and SQL query optimization
+Currently studying and working with **Vue.js and NodeJs**, building academic and personal projects to strengthen both front-end and back-end development skills.
 
 ---
-
 
 ## Technologies
-> Technologies and tools that are part of my daily development workflow.
+> Technologies and tools that are part of my daily development.
 
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000) |
-| **Web Development** | ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |
-| **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) |
-| **IDEs & Tools** | ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) |
+| Category | Technologies | Technical Justification |
+| :--- | :--- | :--- |
+| **Languages** | ![Skills](https://skillicons.dev/icons?i=java,js) | Building solid and reliable backend systems and creating interactive features on the frontend. |
+| **Web Development** | ![Skills](https://skillicons.dev/icons?i=vue,html,css) | Creating modern, mobile-responsive websites organized into clean, reusable components. |
+| **Databases** | ![Skills](https://skillicons.dev/icons?i=mysql,postgres) | Designing clear data tables, ensuring data safety, and writing fast data queries |
+| **Tools & IDEs** | ![Skills](https://skillicons.dev/icons?i=vscode,idea,git,figma) | Managing code history with Git, using professional development tools, and prototyping screens in Figma. |
 
 ---
 
-## Additional Knowledge
-> Technologies used in introductory academic projects, with a stronger focus on Python.
+## Featured Project: Reda+ (Work in Progress)
+### Educational platform for essay practice and AI-assisted feedback 
+Reda+ is an academic group project focused on helping ENEM students through essay analysis and AI-generated feedback.
 
-| Domain | Tools / Languages |
-| :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
-| **Tools & Design** | ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white) |
+**AI Integration:** Gemini AI
+### Project Stack
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vue,nodejs,postgres,git" />
+</p>
