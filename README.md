@@ -33,19 +33,3 @@ Currently Learning
 | **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
 | **Tools & Design** | ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white) |
 
----
-
-## My GitHub Stats
-
-<div >
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=italoBzr&theme=dracula&hide_border=true&bg_color=282a36&area=true" />
-</div>
-
-<br>
-
-<div>
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=italoBzr&theme=dracula&hide_border=true&background=282a36" />
-  <img width="39%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=italoBzr&theme=dracula" />
-</div>
-
-
